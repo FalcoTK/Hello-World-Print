@@ -3,7 +3,7 @@ Just A Library For Jokes XD
 
 # How To Install:
 ```
-pip install HelloWorld
+pip install HelloWorldPrint==0.0.1
 ```
 
 # Example Code:
